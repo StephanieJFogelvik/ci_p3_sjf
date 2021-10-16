@@ -111,12 +111,13 @@ print("")
 
 # display random flashcard  for 3 sec
 print("READY?")
-i = 1
-while i < 6:
-    print("")
-    time.sleep(3)
-    random_number = random.randint(0, len(flashcards))
-    CARDNAME = "flash_" + str(random_number)
-    print(flashcards[CARDNAME])
-    # print(i)
-    i += 1
+def display_cards():
+    i = 1
+    while i < 6:
+        print("")
+        time.sleep(3)
+        random_number = random.randint(0, len(flashcards))
+        CARDNAME = "flash_" + str(random_number)
+        print(flashcards[CARDNAME])
+        i += 1
+display_cards()
