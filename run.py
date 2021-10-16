@@ -1,10 +1,8 @@
-# Your code goes here.
-# You can delete these comments, but do not change the name of this file
 # Write your code to expect a terminal of 80 characters wide and 24 rows high
 import random
 import time
 
-# Flashcards 100 Basic Swedish words
+# Flashcard 100 Basic Swedish words
 flashcards = {"flash_0": {"vecka (n)": "week"},
               "flash_1": {"år (n)": "year"},
               "flash_2": {"idag (adv)": "today"},
@@ -104,3 +102,21 @@ flashcards = {"flash_0": {"vecka (n)": "week"},
               "flash_97": {"programmerare (n)": "Programmer"},
               "flash_98": {"försäljare (n)": "Salesman"},
               "flash_99": {"snickare (n)": "Carpenter"}}
+print("Flashcard Game for 100 Basic Swedish Words!")
+print("")
+print("")
+
+# flashcard = flashcards(flashcard)
+# random_key = random.(flashcard[0])
+
+# display random flashcard  for 3 sec
+print("READY?")
+i = 1
+while i < 6:
+    print("")
+    time.sleep(3)
+    random_number = random.randint(0, len(flashcards))
+    CARDNAME = "flash_" + str(random_number)
+    print(flashcards[CARDNAME])
+    # print(i)
+    i += 1
