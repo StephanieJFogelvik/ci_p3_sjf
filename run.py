@@ -1,4 +1,3 @@
-# Write your code to expect a terminal of 80 characters wide and 24 rows high
 import random
 import time
 
@@ -212,3 +211,18 @@ for question in questions:
 # input from the user to trigger multiple choice based on the quiz above:
 print("Press Enter")
 input()
+
+print("Press Enter")
+input()
+
+# Enter Swe-flag image here (to push the flashcards out of view)
+
+# Multiple choice questions: 
+for answer in answers:
+    print(answer["swedish"])
+    print(answer["a"], answer["b"], answer["c"], answer["d"])
+    user_input = input().lower()
+if user_input == answer["correct"]:
+    print("That is correct!")
+else:
+    print("Sorry! Wrong answer.")
