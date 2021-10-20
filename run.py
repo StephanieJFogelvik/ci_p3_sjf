@@ -179,10 +179,7 @@ quiz_answers = [
 print("Flashcard Game for 100 Basic Swedish Words!")
 print("")
 print("")
-
-# flashcard = flashcards(flashcard)
-# random_key = random.(flashcard[0])
-
+ 
 # displays random flashcards for 3 seconds:
 card_sets = []
 print("READY?")
