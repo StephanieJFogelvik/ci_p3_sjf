@@ -891,10 +891,10 @@ quiz_answers = [
             "english": "four"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "fiery",
+            "b": "ferry",
             "c": "four",
-            "d": "",
+            "d": "free",
             "correct": "c",
             "swedish": "fyra"
         }
@@ -905,9 +905,9 @@ quiz_answers = [
             "english": "five"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "femme",
+            "b": "foam",
+            "c": "fawn",
             "d": "five",
             "correct": "d",
             "swedish": "fem"
