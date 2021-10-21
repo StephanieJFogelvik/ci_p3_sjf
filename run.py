@@ -39,14 +39,14 @@ def flag():
 
 
 print("Flashcard Game for 100 Basic Swedish Words!")
-print("")
-print("")
+print(2 * "\n")
+flag()
+
 
 # displays random flashcards for 3 seconds:
 card_sets = []
-print("READY?")
-
-
+print("LET'S PRACTICE SOME SWEDISH VOCABULARY!")
+print(2 * "\n")
 def display_cards():
     i = 1
     while i < 6:
@@ -56,37 +56,36 @@ def display_cards():
             i += 1
 
 
-display_cards()
+display_cards()̣
 
 # quiz section:
 print("QUIZ!")
-
+print("")
 questions = [card["question"] for card in card_sets]
 answers = [card["answer"] for card in card_sets]
 
 # prints out the question to the user:
 for question in questions:
-    print(f'Swedish word: {question["swedish"]}, \
-        English word: {question["english"]}')
-    print("")
+    print(f'Swedish: {question["swedish"]}, \
+        English: {question["english"]}')
+    print(2 * "\n")
 # puts a 3 sec pause between questions:
     time.sleep(3)
 # input from the user to trigger multiple choice based on the quiz above:
 print("Press Enter")
 input()
 
-print("Press Enter")
-input()
 
-# Enter Swe-flag image here (to push the flashcards out of view)
+# Swe-flag image here (to push the flashcards out of view)
+flag()
 
 # Multiple choice questions:
 SCORE = 0
 for answer in answers:
     print(f'What is the English word for: {answer["swedish"]}?')
     print('Enter a letter for the correct answer (a, b, c, or d).')
-    print(f' Is it {answer["a"]}, {answer["b"]}, {answer["c"]},\
-         or {answer["d"]}?')
+    print(f' Is it A:{answer["a"]}, B:{answer["b"]}, C:{answer["c"]},
+         or D:{answer["d"]}?')
     user_input = input().lower()
 if user_input == answer["correct"]:
     print("That is correct!")
