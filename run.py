@@ -41,1388 +41,1388 @@ def flag():
 quiz_answers = [
     {
         "question": {
-            "swedish": "vecka (n)",
-            "english": "week"
+            "swedish": "VECKA",
+            "english": "WEEK"
         },
         "answer": {
-            "a": "valley",
-            "b": "wiggle",
-            "c": "week",
-            "d": "travel",
+            "a": "VALLEY",
+            "b": "WIGGLE",
+            "c": "WEEK",
+            "d": "TRAVEL",
             "correct": "c",
-            "swedish": "vecka (n)"
+            "swedish": "VECKA"
         }
     },
     {
         "question": {
-            "swedish": "år (n)",
-            "english": "year"
+            "swedish": "ÅR",
+            "english": "YEAR"
         },
         "answer": {
-            "a": "oar",
-            "b": "ore",
-            "c": "or",
-            "d": "year",
+            "a": "OAR",
+            "b": "ORE",
+            "c": "OR",
+            "d": "YEAR",
             "correct": "d",
-            "swedish": "år (n)"
+            "swedish": "ÅR"
         }
     },
     {
         "question": {
-            "swedish": "idag (n)",
-            "english": "today"
+            "swedish": "IDAG",
+            "english": "TODAY"
         },
         "answer": {
-            "a": "dog",
-            "b": "cod",
-            "c": "today",
-            "d": "day",
+            "a": "DOG",
+            "b": "COD",
+            "c": "TODAY",
+            "d": "DAY",
             "correct": "c",
-            "swedish": "idag (n)"
+            "swedish": "IDAG"
         }
     },
     {
         "question": {
-            "swedish": "imorgon (n)",
-            "english": "tomorrow"
+            "swedish": "IMORGON",
+            "english": "TOMORROW"
         },
         "answer": {
-            "a": "air gun",
-            "b": "organ",
-            "c": "tomorrow",
-            "d": "mirror",
+            "a": "AIR GUN",
+            "b": "ORGAN",
+            "c": "TOMORROW",
+            "d": "MIRROR",
             "correct": "c",
-            "swedish": "imorgon (n)"
+            "swedish": "IMORGON"
         }
     },
     {
         "question": {
-            "swedish": "igår (n)",
-            "english": "yesterday"
+            "swedish": "IGÅR",
+            "english": "YESTERDAY"
         },
         "answer": {
-            "a": "eagle",
-            "b": "yesterday",
-            "c": "ogre",
-            "d": "igloo",
+            "a": "EAGLE",
+            "b": "YESTERDAY",
+            "c": "OGRE",
+            "d": "IGLOO",
             "correct": "b",
-            "swedish": "igår (n)"
+            "swedish": "IGÅR"
         }
     },
     {
         "question": {
-            "swedish": "kalender",
-            "english": "calendar"
+            "swedish": "KALENDER",
+            "english": "CALENDAR"
         },
         "answer": {
-            "a": "cylinder",
-            "b": "calendar",
-            "c": "commander",
-            "d": "colander",
+            "a": "CYLINDER",
+            "b": "CALENDAR",
+            "c": "COMMANDER",
+            "d": "COLANDER",
             "correct": "b",
-            "swedish": "kalender"
+            "swedish": "KALENDER"
         }
     },
     {
         "question": {
-            "swedish": "sekund",
-            "english": "second"
+            "swedish": "SEKUND",
+            "english": "SECOND"
         },
         "answer": {
-            "a": "second",
-            "b": "succumbed",
-            "c": "typhoon",
-            "d": "sickened",
+            "a": "SECOND",
+            "b": "SUCCUMBED",
+            "c": "TYPHOON",
+            "d": "SICKENED",
             "correct": "a",
-            "swedish": "sekund"
+            "swedish": "SEKUND"
         }
     },
     {
         "question": {
-            "swedish": "timme",
-            "english": "hour"
+            "swedish": "TIMME",
+            "english": "HOUR"
         },
         "answer": {
-            "a": "tonne",
-            "b": "hour",
-            "c": "thimble",
-            "d": "teeming",
+            "a": "TONNE",
+            "b": "HOUR",
+            "c": "THIMBLE",
+            "d": "TEEMING",
             "correct": "b",
-            "swedish": "hour"
+            "swedish": "HOUR"
         }
     },
     {
         "question": {
-            "swedish": "minut",
-            "english": "Minute"
+            "swedish": "MINUT",
+            "english": "MINUTE"
         },
         "answer": {
-            "a": "small",
-            "b": "well",
-            "c": "minute",
-            "d": "magnet",
+            "a": "SMALL",
+            "b": "WELL",
+            "c": "MINUTE",
+            "d": "MAGNET",
             "correct": "c",
-            "swedish": "minut"
+            "swedish": "MINUT"
         }
     },
     {
         "question": {
-            "swedish": "klockan...",
-            "english": "...o'clock"
+            "swedish": "KLOCKAN...",
+            "english": "...O' CLOCK"
         },
         "answer": {
-            "a": "knocking",
-            "b": "clock in",
-            "c": "cooking",
-            "d": "...o'clock",
+            "a": "KNOCKING",
+            "b": "CLOCK IN",
+            "c": "COOKING",
+            "d": "...O' CLOCK",
             "correct": "d",
-            "swedish": "klockan..."
+            "swedish": "KLOCKAN..."
         }
     },
     {
         "question": {
-            "swedish": "klocka",
-            "english": "Clock"
+            "swedish": "KLOCKA",
+            "english": "CLOCK"
         },
         "answer": {
-            "a": "cloak",
-            "b": "click",
-            "c": "clock",
-            "d": "clog",
+            "a": "CLOAK",
+            "b": "CLICK",
+            "c": "CLOCK",
+            "d": "CLOG",
             "correct": "c",
-            "swedish": "klocka"
+            "swedish": "kLOCKA"
         }
     },
     {
         "question": {
-            "swedish": "en timme",
-            "english": "one hour"
+            "swedish": "EN TIMME",
+            "english": "ONE HOUR"
         },
         "answer": {
-            "a": "in time",
-            "b": "ending",
-            "c": "on time",
-            "d": "one hour",
+            "a": "IN TIME",
+            "b": "ENDING",
+            "c": "ON TIME",
+            "d": "ONE HOUR",
             "correct": "d",
-            "swedish": "en timme"
+            "swedish": "EN TIMME"
         }
     },
     {
         "question": {
-            "swedish": "kan",
-            "english": "can"
+            "swedish": "KAN",
+            "english": "CAN"
         },
         "answer": {
-            "a": "kin",
-            "b": "con",
-            "c": "can",
-            "d": "ban",
+            "a": "KIN",
+            "b": "CON",
+            "c": "CAN",
+            "d": "BAN",
             "correct": "c",
-            "swedish": "kan"
+            "swedish": "KAN"
         }
     },
     {
         "question": {
-            "swedish": "använda",
-            "english": "use"
+            "swedish": "ANVÄNDA",
+            "english": "USE"
         },
         "answer": {
-            "a": "invade",
-            "b": "use",
-            "c": "antenna",
-            "d": "envied",
+            "a": "INVADE",
+            "b": "USE",
+            "c": "ANTENNAE",
+            "d": "ENVIED",
             "correct": "b",
-            "swedish": "använda"
+            "swedish": "ANVÄNDA"
         }
     },
     {
         "question": {
-            "swedish": "göra",
-            "english": "do"
+            "swedish": "GÖRA",
+            "english": "DO"
         },
         "answer": {
-            "a": "grow",
-            "b": "do",
-            "c": "grey",
-            "d": "sew",
+            "a": "GROW",
+            "b": "DO",
+            "c": "GREY",
+            "d": "SEW",
             "correct": "b",
-            "swedish": "göra"
+            "swedish": "GÖRA"
         }
     },
     {
         "question": {
-            "swedish": "gå",
-            "english": "go"
+            "swedish": "GÅ",
+            "english": "GO"
         },
         "answer": {
-            "a": "go",
-            "b": "so",
-            "c": "do",
-            "d": "eye",
+            "a": "GO",
+            "b": "SO",
+            "c": "DO",
+            "d": "EYE",
             "correct": "a",
-            "swedish": "gå"
+            "swedish": "GÅ"
         }
     },
     {
         "question": {
-            "swedish": "komma",
-            "english": "come"
+            "swedish": "KOMMA",
+            "english": "COME"
         },
         "answer": {
-            "a": "comma",
-            "b": "common",
-            "c": "calmly",
-            "d": "come",
+            "a": "COMMA",
+            "b": "COMMON",
+            "c": "CALMLY",
+            "d": "COME",
             "correct": "d",
-            "swedish": "komma"
+            "swedish": "KOMMA"
         }
     },
     {
         "question": {
-            "swedish": "skratta",
-            "english": "laugh"
+            "swedish": "SKRATTA",
+            "english": "LAUGH"
         },
         "answer": {
-            "a": "skirt",
-            "b": "squat",
-            "c": "laugh",
-            "d": "rake",
+            "a": "SKIRT",
+            "b": "SQUAT",
+            "c": "LAUGH",
+            "d": "RAKE",
             "correct": "c",
-            "swedish": "skratta"
+            "swedish": "SKRATTA"
         }
     },
     {
         "question": {
-            "swedish": "säga",
-            "english": "say"
+            "swedish": "SÄGA",
+            "english": "SAY"
         },
         "answer": {
-            "a": "thing",
-            "b": "roof",
-            "c": "say",
-            "d": "write",
+            "a": "THING",
+            "b": "ROOF",
+            "c": "SAY",
+            "d": "WRITE",
             "correct": "c",
-            "swedish": "säga"
+            "swedish": "SÄGA"
         }
     },
     {
         "question": {
-            "swedish": "se",
-            "english": "see"
+            "swedish": "SE",
+            "english": "SEE"
         },
         "answer": {
-            "a": "soothe",
-            "b": "sea",
-            "c": "see",
-            "d": "fee",
+            "a": "SOOTHE",
+            "b": "SEA",
+            "c": "SEE",
+            "d": "FEE",
             "correct": "c",
-            "swedish": "se"
+            "swedish": "SE"
         }
     },
     {
         "question": {
-            "swedish": "långt",
-            "english": "far"
+            "swedish": "LÅNGT",
+            "english": "FAR"
         },
         "answer": {
-            "a": "light",
-            "b": "far",
-            "c": "lead",
-            "d": "narrow",
+            "a": "LIGHT",
+            "b": "FAR",
+            "c": "LEAD",
+            "d": "NARROW",
             "correct": "b",
-            "swedish": "långt"
+            "swedish": "LÅNGT"
         }
     },
     {
         "question": {
-            "swedish": "liten",
-            "english": "small"
+            "swedish": "LITEN",
+            "english": "SMALL"
         },
         "answer": {
-            "a": "lightweight",
-            "b": "bottle",
-            "c": "dog",
-            "d": "small",
+            "a": "LIGHTWEIGHT",
+            "b": "BOTTLE",
+            "c": "DOG",
+            "d": "SMALL",
             "correct": "d",
-            "swedish": "liten"
+            "swedish": "LITEN"
         }
     },
     {
         "question": {
-            "swedish": "stor",
-            "english": "big"
+            "swedish": "STOR",
+            "english": "BIG"
         },
         "answer": {
-            "a": "steer",
-            "b": "big",
-            "c": "house",
-            "d": "horse",
+            "a": "STEER",
+            "b": "BIG",
+            "c": "HOUSE",
+            "d": "HORSE",
             "correct": "b",
-            "swedish": "stor"
+            "swedish": "STOR"
         }
     },
     {
         "question": {
-            "swedish": "vacker",
-            "english": "beautiful"
+            "swedish": "VACKER",
+            "english": "BEAUTIFUL"
         },
         "answer": {
-            "a": "mirror",
-            "b": "beautiful",
-            "c": "stairwell",
-            "d": "ceiling",
+            "a": "MIRROR",
+            "b": "BEAUTIFUL",
+            "c": "STAIRWELL",
+            "d": "CEILING",
             "correct": "b",
-            "swedish": "vacker"
+            "swedish": "VACKER"
         }
     },
     {
         "question": {
-            "swedish": "ful",
-            "english": "ugly"
+            "swedish": "FUL",
+            "english": "UGLY"
         },
         "answer": {
-            "a": "full",
-            "b": "pretty",
-            "c": "bottle",
-            "d": "ugly",
+            "a": "FULL",
+            "b": "PRETTY",
+            "c": "BOTTLE",
+            "d": "UGLY",
             "correct": "d",
-            "swedish": "ful"
+            "swedish": "FUL"
         }
     },
     {
         "question": {
-            "swedish": "svår",
-            "english": "difficult"
+            "swedish": "SVÅR",
+            "english": "DIFFICULT"
         },
         "answer": {
-            "a": "heavy",
-            "b": "difficult",
-            "c": "sore",
-            "d": "sad",
+            "a": "HEAVY",
+            "b": "DIFFICULT",
+            "c": "SORE",
+            "d": "SAD",
             "correct": "b",
-            "swedish": "svår"
+            "swedish": "SVÅR"
         }
     },
     {
         "question": {
-            "swedish": "lätt",
-            "english": "easy"
+            "swedish": "LÄTT",
+            "english": "EASY"
         },
         "answer": {
-            "a": "butter",
-            "b": "easy",
-            "c": "ticket",
-            "d": "cloud",
+            "a": "BUTTER",
+            "b": "EASY",
+            "c": "TICKET",
+            "d": "CLOUD",
             "correct": "b",
-            "swedish": "lätt"
+            "swedish": "LÄTT"
         }
     },
     {
         "question": {
-            "swedish": "bra",
-            "english": "good"
+            "swedish": "BRA",
+            "english": "GOOD"
         },
         "answer": {
-            "a": "good",
-            "b": "brother",
-            "c": "brew",
-            "d": "borough",
+            "a": "GOOD",
+            "b": "BROTHER",
+            "c": "BREW",
+            "d": "BOROUGH",
             "correct": "a",
-            "swedish": "bra"
+            "swedish": "BRA"
         }
     },
     {
         "question": {
-            "swedish": "dålig",
-            "english": "bad"
+            "swedish": "DÅLIG",
+            "english": "BAD"
         },
         "answer": {
-            "a": "good",
-            "b": "radio",
-            "c": "expensive",
-            "d": "bad",
+            "a": "GOOD",
+            "b": "RADIO",
+            "c": "EXPENSIVE",
+            "d": "BAD",
             "correct": "d",
-            "swedish": "dålig"
+            "swedish": "DÅLIG"
         }
     },
     {
         "question": {
-            "swedish": "nära",
-            "english": "near"
+            "swedish": "NÄRA",
+            "english": "NEAR"
         },
         "answer": {
-            "a": "near",
-            "b": "far",
-            "c": "nerve",
-            "d": "know",
+            "a": "NEAR",
+            "b": "FAR",
+            "c": "NERVE",
+            "d": "KNOW",
             "correct": "a",
-            "swedish": "nära"
+            "swedish": "NÄRA"
         }
     },
     {
         "question": {
-            "swedish": "Trevligt att träffas.",
-            "english": "Nice to meet you."
+            "swedish": "TREVLIGT ATT TRÄFFAS",
+            "english": "NICE TO MEET YOU"
         },
         "answer": {
-            "a": "Please excuse me.",
-            "b": "Nice to meet you.",
-            "c": "This is my stop.",
-            "d": "Nice weather today.",
+            "a": "PLEASE EXCUSE ME",
+            "b": "NICE TO MEET YOU",
+            "c": "THIS IS MY STOP",
+            "d": "NICE WEATHER TODAY",
             "correct": "b",
-            "swedish": "Trevligt att träffas"
+            "swedish": "TREVLIGT ATT TRÄFFAS"
         }
     },
     {
         "question": {
-            "swedish": "Hej",
-            "english": "Hi"
+            "swedish": "HEJ",
+            "english": "HI"
         },
         "answer": {
-            "a": "Soup",
-            "b": "hedge",
-            "c": "Wall",
-            "d": "Hi",
+            "a": "SOUP",
+            "b": "HEDGE",
+            "c": "WALL",
+            "d": "HI",
             "correct": "d",
-            "swedish": "Hej"
+            "swedish": "HEJ"
         }
-    },
+    }
     {
         "question": {
-            "swedish": "God morgon!",
-            "english": "Good morning!"
+            "swedish": "GOD MORGON!",
+            "english": "GOOD MORNING!"
         },
         "answer": {
-            "a": "Good afternoon!",
-            "b": "Good day!",
-            "c": "Good moron!",
-            "d": "Good morning!",
+            "a": "GOOD AFTERNOON!",
+            "b": "GOOD DAY!",
+            "c": "GOOD MORON!",
+            "d": "GOOD MORNING!",
             "correct": "d",
-            "swedish": "God morgon!"
+            "swedish": "GOD MORGON!"
         }
     },
     {
         "question": {
-            "swedish": "Goddag.",
-            "english": "Good afternoon."
+            "swedish": "GODDAG",
+            "english": "GOOD AFTERNOON"
         },
         "answer": {
-            "a": "Good dog.",
-            "b": "How gaudy.",
-            "c": "Good afternoon.",
-            "d": "Good night.",
+            "a": "GOOD DOG",
+            "b": "HOW GAUDY",
+            "c": "GOOD AFTERNOON",
+            "d": "GOOD NIGHT",
             "correct": "c",
-            "swedish": "Goddag."
+            "swedish": "GODDAG"
         }
     },
     {
         "question": {
-            "swedish": "God kväll.",
-            "english": "Good evening."
+            "swedish": "GOD KVÄLL",
+            "english": "GOOD EVENING"
         },
         "answer": {
-            "a": "Good morning.",
-            "b": "Good job.",
-            "c": "Good day.",
-            "d": "Good evening.",
+            "a": "GOOD MORNING",
+            "b": "GOOD JOB",
+            "c": "GOOD DAY",
+            "d": "GOOD EVENING",
             "correct": "d",
-            "swedish": "God kväll."
+            "swedish": "GOD KVÄLL"
         }
     },
     {
         "question": {
-            "swedish": "Godnatt.",
-            "english": "Good night."
+            "swedish": "GODNATT",
+            "english": "GOOD NIGHT"
         },
         "answer": {
-            "a": "Hello.",
-            "b": "Good day.",
-            "c": "Bye.",
-            "d": "Good night.",
+            "a": "HELLO",
+            "b": "GOOD DAY",
+            "c": "BYE",
+            "d": "GOOD NIGHT",
             "correct": "d",
-            "swedish": "Godnatt"
+            "swedish": "GODNATT"
         }
     },
     {
         "question": {
-            "swedish": "Hur mår du?",
-            "english": "How are you?"
+            "swedish": "HUR MÅR DU?",
+            "english": "HOW ARE YOU?"
         },
         "answer": {
-            "a": "How many do you want [to buy]?",
-            "b": "What is that?",
-            "c": "Where are we?",
-            "d": "How are you?",
+            "a": "HOW MANY [FOR YOU]?",
+            "b": "WHAT IS THAT?",
+            "c": "WHERE ARE WE?",
+            "d": "HOW ARE YOU?",
             "correct": "d",
-            "swedish": "Hur mår du?"
+            "swedish": "HUR MÅR DU?"
         }
     },
     {
         "question": {
-            "swedish": "tack",
-            "english": "thanks"
+            "swedish": "TACK",
+            "english": "THANKS"
         },
         "answer": {
-            "a": "take",
-            "b": "talk",
-            "c": "stack",
-            "d": "thanks",
+            "a": "TAKE",
+            "b": "TALK",
+            "c": "STACK",
+            "d": "THANKS",
             "correct": "d",
-            "swedish": "tack"
+            "swedish": "TACK"
         }
     },
     {
         "question": {
-            "swedish": "nej",
-            "english": "no"
+            "swedish": "NEJ",
+            "english": "NO"
         },
         "answer": {
-            "a": "yes",
-            "b": "neigh",
-            "c": "sorry",
-            "d": "no",
+            "a": "YES",
+            "b": "NEIGH",
+            "c": "SORRY",
+            "d": "NO",
             "correct": "d",
-            "swedish": "nej"
+            "swedish": "NEJ"
         }
     },
     {
         "question": {
-            "swedish": "Jag är...[__]",
-            "english": "I am...[name]"
+            "swedish": "JAB ÄR...[__]",
+            "english": "I AM...[NAME]"
         },
         "answer": {
-            "a": "I am...[__]",
-            "b": "I want...[__]",
-            "c": "I went to...[__]",
-            "d": "I saw...[__]",
+            "a": "I AM..[__]",
+            "b": "I WANT...[__]",
+            "c": "I WENT TO...[__]",
+            "d": "I SAW...[__]",
             "correct": "a",
-            "swedish": "Jag är...[__]"
+            "swedish": "JAG ÄR...[__]"
         }
     },
     {
         "question": {
-            "swedish": "Hej då",
-            "english": "Goodbye"
+            "swedish": "HEJ DÅ",
+            "english": "GOODBYE"
         },
         "answer": {
-            "a": "Hello",
-            "b": "Goodbye",
-            "c": "Tallyho",
-            "d": "Cheers",
+            "a": "HELLO",
+            "b": "GOODBYE",
+            "c": "TALLYHO",
+            "d": "CHEERS",
             "correct": "b",
-            "swedish": "Hej då"
+            "swedish": "HEJ DÅ"
         }
     },
     {
         "question": {
-            "swedish": "ja",
-            "english": "yes"
+            "swedish": "JA",
+            "english": "YES"
         },
         "answer": {
-            "a": "yes",
-            "b": "maybe",
-            "c": "elk",
-            "d": "roar",
+            "a": "YES",
+            "b": "MAYBE",
+            "c": "ELK",
+            "d": "ROAR",
             "correct": "a",
-            "swedish": "ja"
+            "swedish": "JA"
         }
     },
     {
         "question": {
-            "swedish": "måndag",
-            "english": "monday"
+            "swedish": "MÅNDAG",
+            "english": "MONDAY"
         },
         "answer": {
-            "a": "Mad dog",
-            "b": "Monday",
-            "c": "Mattock",
-            "d": "May Day",
+            "a": "MAD DOG",
+            "b": "MONDAY",
+            "c": "MATTOCK",
+            "d": "MAY DAY",
             "correct": "b",
-            "swedish": "måndag"
+            "swedish": "MÅNDAG"
         }
     },
     {
         "question": {
-            "swedish": "tisdag",
-            "english": "tuesday"
+            "swedish": "TISDAG",
+            "english": "TUESDAY"
         },
         "answer": {
-            "a": "today",
-            "b": "teddy",
-            "c": "tuesday",
-            "d": "toothy",
+            "a": "TODAY",
+            "b": "TEDDY",
+            "c": "TUESDAY",
+            "d": "TOOTHY",
             "correct": "c",
-            "swedish": "tisdag"
+            "swedish": "TISDAG"
         }
     },
     {
         "question": {
-            "swedish": "onsdag",
-            "english": "wednesday"
+            "swedish": "ONSDAG",
+            "english": "WEDNESDAY"
         },
         "answer": {
-            "a": "twenty",
-            "b": "wander",
-            "c": "wheezy",
-            "d": "wednesday",
+            "a": "TWENTY",
+            "b": "WANDER",
+            "c": "WHEEZY",
+            "d": "WEDNESDAY",
             "correct": "d",
-            "swedish": "onsdag"
+            "swedish": "ONSDAG"
         }
     },
     {
         "question": {
-            "swedish": "torsdag",
-            "english": "thursday"
+            "swedish": "TORSDAG",
+            "english": "THURSDAY"
         },
         "answer": {
-            "a": "thursday",
-            "b": "third day",
-            "c": "thready",
-            "d": "thorough",
+            "a": "THURSDAY",
+            "b": "THIRD DAY",
+            "c": "THREADY",
+            "d": "THOROUGH",
             "correct": "a",
-            "swedish": "torsdag"
+            "swedish": "TORSDAG"
         }
     },
     {
         "question": {
-            "swedish": "fredag",
-            "english": "friday"
+            "swedish": "FREDAG",
+            "english": "FRIDAY"
         },
         "answer": {
-            "a": "flighty",
-            "b": "friday",
-            "c": "friary",
-            "d": "fried food",
+            "a": "FLIGHTY",
+            "b": "FRIDAY",
+            "c": "FRIARY",
+            "d": "FRIGHTFUL",
             "correct": "b",
-            "swedish": "fredag"
+            "swedish": "FREDAG"
         }
     },
     {
         "question": {
-            "swedish": "lördag",
-            "english": "saturday"
+            "swedish": "LÖRDAG",
+            "english": "SATURDAY"
         },
         "answer": {
-            "a": "lower deck",
-            "b": "arctic",
-            "c": "lördag",
-            "d": "burdock",
+            "a": "LOWER DECK",
+            "b": "ARCTIC",
+            "c": "LÖRDAG",
+            "d": "BURDOCK",
             "correct": "c",
-            "swedish": "lördag"
+            "swedish": "LÖRDAG"
         }
     },
     {
         "question": {
-            "swedish": "söndag",
-            "english": "sunday"
+            "swedish": "SÖNDAG",
+            "english": "SUNDAY"
         },
         "answer": {
-            "a": "sundog",
-            "b": "snake",
-            "c": "sandbag",
-            "d": "sunday",
+            "a": "SUNDOG",
+            "b": "SNAKE",
+            "c": "SANDBAG",
+            "d": "SUNDAY",
             "correct": "d",
-            "swedish": "söndag"
+            "swedish": "SÖNDAG"
         }
     },
     {
         "question": {
-            "swedish": "januari",
-            "english": "January"
+            "swedish": "JANUARI",
+            "english": "JANUARY"
         },
         "answer": {
-            "a": "January",
-            "b": "Janissary",
-            "c": "Annuary",
-            "d": "Yearbook",
+            "a": "JANUARY",
+            "b": "JANISSARY",
+            "c": "ANNUARY",
+            "d": "YEARBOOK",
             "correct": "a",
-            "swedish": "januari"
+            "swedish": "JANUARI"
         }
     },
     {
         "question": {
-            "swedish": "februari",
-            "english": "February"
+            "swedish": "FEBRUARI",
+            "english": "FEBRUARY"
         },
         "answer": {
-            "a": "Fibulare",
-            "b": "February",
-            "c": "Fever",
-            "d": "Fibbing",
+            "a": "FIBULARE",
+            "b": "FEBRUARY",
+            "c": "FEVER",
+            "d": "FIBBING",
             "correct": "b",
-            "swedish": "februari"
+            "swedish": "FEBRUARI"
         }
     },
     {
         "question": {
-            "swedish": "mars",
-            "english": "March"
+            "swedish": "MARS",
+            "english": "MARCH"
         },
         "answer": {
-            "a": "Mare",
-            "b": "Morse",
-            "c": "March",
-            "d": "War",
+            "a": "MARE",
+            "b": "MORSE",
+            "c": "MARCH",
+            "d": "WAR",
             "correct": "c",
-            "swedish": "mars"
+            "swedish": "MARS"
         }
     },
     {
         "question": {
-            "swedish": "april",
-            "english": "April"
+            "swedish": "APRIL",
+            "english": "APRIL"
         },
         "answer": {
-            "a": "Apron",
-            "b": "Opal",
-            "c": "Apple",
-            "d": "April",
+            "a": "APRON",
+            "b": "OPAL",
+            "c": "APPLE",
+            "d": "APRIL",
             "correct": "d",
-            "swedish": "april"
+            "swedish": "APRIL"
         }
     },
     {
         "question": {
-            "swedish": "maj",
-            "english": "May"
+            "swedish": "MAJ",
+            "english": "MAY"
         },
         "answer": {
-            "a": "May",
-            "b": "Match",
-            "c": "Merge",
-            "d": "Nudge",
+            "a": "MAY",
+            "b": "MATCH",
+            "c": "MERGE",
+            "d": "NUDGE",
             "correct": "a",
-            "swedish": "maj"
+            "swedish": "MAJ"
         }
     },
     {
         "question": {
-            "swedish": "juni",
-            "english": "June"
+            "swedish": "JUNI",
+            "english": "JUNE"
         },
         "answer": {
-            "a": "Uni",
-            "b": "June",
-            "c": "Goon",
-            "d": "Join me",
+            "a": "UNI",
+            "b": "JUNE",
+            "c": "GOON",
+            "d": "JOIN ME",
             "correct": "b",
-            "swedish": "juni"
+            "swedish": "JUNI"
         }
     },
     {
         "question": {
-            "swedish": "juli",
-            "english": "July"
+            "swedish": "JULI",
+            "english": "JULY"
         },
         "answer": {
-            "a": "Pretty",
-            "b": "Genie",
-            "c": "July",
-            "d": "a small fishing vessel",
+            "a": "PRETTY",
+            "b": "TANGERINE",
+            "c": "JULY",
+            "d": "A SMALL FISHING VESSEL",
             "correct": "c",
-            "swedish": "juli"
+            "swedish": "JULI"
         }
     },
     {
         "question": {
-            "swedish": "september",
-            "english": "September"
+            "swedish": "SEPTEMBER",
+            "english": "SEPTEMBER"
         },
         "answer": {
-            "a": "Septum",
-            "b": "Timber",
-            "c": "Foul-tempered",
-            "d": "September",
+            "a": "SEPTUM",
+            "b": "TIMBER",
+            "c": "FOUL-TEMPERED",
+            "d": "SEPTEMBER",
             "correct": "d",
-            "swedish": "september"
+            "swedish": "SEPTEMBER"
         }
     },
     {
         "question": {
-            "swedish": "november",
-            "english": "November"
+            "swedish": "NOVEMBER",
+            "english": "NOVEMBER"
         },
         "answer": {
-            "a": "November",
-            "b": "Novelty",
-            "c": "Notorious",
-            "d": "Nevermore",
+            "a": "NOVEMBER",
+            "b": "NOVELTY",
+            "c": "NOTORIOUS",
+            "d": "NEVERMORE",
             "correct": "a",
-            "swedish": "november"
+            "swedish": "NOVEMBER"
         }
     },
     {
         "question": {
-            "swedish": "december",
-            "english": "December"
+            "swedish": "DECEMBER",
+            "english": "DECEMBER"
         },
         "answer": {
-            "a": "Cucumber",
-            "b": "December",
-            "c": "Dissemble",
-            "d": "Dishonour",
+            "a": "CUCUMBER",
+            "b": "DECEMBER",
+            "c": "DISSEMBLE",
+            "d": "DISHONOUR",
             "correct": "b",
-            "swedish": "december"
+            "swedish": "DECEMBER"
         }
     },
     {
         "question": {
-            "swedish": "noll",
-            "english": "zero"
+            "swedish": "NOLL",
+            "english": "ZERO"
         },
         "answer": {
-            "a": "knoll",
-            "b": "Nile",
-            "c": "zero",
-            "d": "kneel",
+            "a": "KNOLL",
+            "b": "NILE",
+            "c": "ZERO",
+            "d": "KNEEL",
             "correct": "c",
-            "swedish": "noll"
+            "swedish": "NOLL"
         }
     },
     {
         "question": {
-            "swedish": "ett",
-            "english": "one"
+            "swedish": "ETT",
+            "english": "ONE"
         },
         "answer": {
-            "a": "it",
-            "b": "out",
-            "c": "when",
-            "d": "one",
+            "a": "IT",
+            "b": "OUT",
+            "c": "WHEN",
+            "d": "ONE",
             "correct": "d",
-            "swedish": "ett"
+            "swedish": "ETT"
         }
     },
     {
         "question": {
-            "swedish": "två",
-            "english": "two"
+            "swedish": "TVÅ",
+            "english": "TWO"
         },
         "answer": {
-            "a": "two",
-            "b": "tea",
-            "c": "tee",
-            "d": "tow",
+            "a": "TWO",
+            "b": "TEA",
+            "c": "TEE",
+            "d": "TOW",
             "correct": "a",
-            "swedish": "två"
+            "swedish": "TVÅ"
         }
     },
     {
         "question": {
-            "swedish": "tre",
-            "english": "three"
+            "swedish": "TRE",
+            "english": "THREE"
         },
         "answer": {
-            "a": "tray",
-            "b": "three",
-            "c": "true",
-            "d": "tree",
+            "a": "TRAY",
+            "b": "THREE",
+            "c": "TRUE",
+            "d": "TREE",
             "correct": "b",
-            "swedish": "three"
+            "swedish": "THREE"
         }
     },
     {
         "question": {
-            "swedish": "fyra",
-            "english": "four"
+            "swedish": "FYRA",
+            "english": "FOUR"
         },
         "answer": {
-            "a": "fiery",
-            "b": "ferry",
-            "c": "four",
-            "d": "free",
+            "a": "FIERY",
+            "b": "FERRY",
+            "c": "FOUR",
+            "d": "FREE",
             "correct": "c",
-            "swedish": "fyra"
+            "swedish": "FYRA"
         }
     },
     {
         "question": {
-            "swedish": "fem",
-            "english": "five"
+            "swedish": "FEM",
+            "english": "FIVE"
         },
         "answer": {
-            "a": "femme",
-            "b": "foam",
-            "c": "fawn",
-            "d": "five",
+            "a": "FEMME",
+            "b": "FOAM",
+            "c": "FAWN",
+            "d": "FIVE",
             "correct": "d",
-            "swedish": "fem"
+            "swedish": "FEM"
         }
     },
     {
         "question": {
-            "swedish": "sex",
-            "english": "six"
+            "swedish": "SEX",
+            "english": "SIX"
         },
         "answer": {
-            "a": "six",
-            "b": "socks",
-            "c": "sax",
-            "d": "sects",
+            "a": "SIX",
+            "b": "SOCKS",
+            "c": "SAX",
+            "d": "SECTS",
             "correct": "a",
-            "swedish": "sex"
+            "swedish": "SEX"
         }
     },
     {
         "question": {
-            "swedish": "sju",
-            "english": "seven"
+            "swedish": "SJU",
+            "english": "SEVEN"
         },
         "answer": {
-            "a": "sigh",
-            "b": "seven",
-            "c": "flu",
-            "d": "sew",
+            "a": "SIGH",
+            "b": "SEVEN",
+            "c": "FLU",
+            "d": "SEW",
             "correct": "b",
-            "swedish": "sju"
+            "swedish": "SJU"
         }
     },
     {
         "question": {
-            "swedish": "åtta",
-            "english": "eight"
+            "swedish": "ÅTTA",
+            "english": "EIGHT"
         },
         "answer": {
-            "a": "two",
-            "b": "understand",
-            "c": "eight",
-            "d": "tie",
+            "a": "TWO",
+            "b": "UNDERSTAND",
+            "c": "EIGHT",
+            "d": "TIE",
             "correct": "c",
-            "swedish": "åtta"
+            "swedish": "ÅTTA"
         }
     },
     {
         "question": {
-            "swedish": "nio",
-            "english": "nine"
+            "swedish": "NIO",
+            "english": "NINE"
         },
         "answer": {
-            "a": "neo",
-            "b": "happy",
-            "c": "meow",
-            "d": "nine",
+            "a": "NEO",
+            "b": "HAPPY",
+            "c": "MEOW",
+            "d": "NINE",
             "correct": "d",
-            "swedish": "nio"
+            "swedish": "NIO"
         }
     },
     {
         "question": {
-            "swedish": "tio",
-            "english": "ten"
+            "swedish": "TIO",
+            "english": "TEN"
         },
         "answer": {
-            "a": "ten",
-            "b": "tie",
-            "c": "tile",
-            "d": "thaw",
+            "a": "TEN",
+            "b": "TIE",
+            "c": "TILE",
+            "d": "THAW",
             "correct": "a",
-            "swedish": "tio"
+            "swedish": "TIO"
         }
     },
     {
         "question": {
-            "swedish": "kaffe",
-            "english": "coffee"
+            "swedish": "KAFFE",
+            "english": "COFFEE"
         },
         "answer": {
-            "a": "coughing",
-            "b": "coffee",
-            "c": "calf",
-            "d": "goof",
+            "a": "COUGHING",
+            "b": "COFFEE",
+            "c": "CALF",
+            "d": "GOOF",
             "correct": "b",
-            "swedish": "kaffe"
+            "swedish": "KAFFE"
         }
     },
     {
         "question": {
-            "swedish": "té",
-            "english": "tea"
+            "swedish": "TÉ",
+            "english": "TEA"
         },
         "answer": {
-            "a": "thee",
-            "b": "to",
-            "c": "tea",
-            "d": "he",
+            "a": "THEE",
+            "b": "TO",
+            "c": "TEA",
+            "d": "HE",
             "correct": "c",
-            "swedish": "tea"
+            "swedish": "TEA"
         }
     },
     {
         "question": {
-            "swedish": "öl",
-            "english": "beer"
+            "swedish": "ÖL",
+            "english": "BEER"
         },
         "answer": {
-            "a": "wool",
-            "b": "ill",
-            "c": "öwl",
-            "d": "beer",
+            "a": "WOOL",
+            "b": "ILL",
+            "c": "OWL",
+            "d": "BEER",
             "correct": "d",
-            "swedish": "öl"
+            "swedish": "ÖL"
         }
     },
     {
         "question": {
-            "swedish": "vin",
-            "english": "wine"
+            "swedish": "VIN",
+            "english": "WINE"
         },
         "answer": {
-            "a": "wine",
-            "b": "won",
-            "c": "when",
-            "d": "wean",
+            "a": "WINE",
+            "b": "WON",
+            "c": "WHEN",
+            "d": "WEAN",
             "correct": "a",
-            "swedish": "wine"
+            "swedish": "WINE"
         }
     },
     {
         "question": {
-            "swedish": "vatten",
-            "english": "water"
+            "swedish": "VATTEN",
+            "english": "WATER"
         },
         "answer": {
-            "a": "vetting",
-            "b": "water",
-            "c": "comprehension",
-            "d": "veteran",
+            "a": "VETTING",
+            "b": "WATER",
+            "c": "COMPREHENSION",
+            "d": "VETERAN",
             "correct": "b",
-            "swedish": "vatten"
+            "swedish": "VATTEN"
         }
     },
     {
         "question": {
-            "swedish": "biff",
-            "english": "beef"
+            "swedish": "BIFF",
+            "english": "BEEF"
         },
         "answer": {
-            "a": "bark",
-            "b": "fight",
-            "c": "beef",
-            "d": "puff",
+            "a": "BARK",
+            "b": "FIGHT",
+            "c": "BEEF",
+            "d": "PUFF",
             "correct": "c",
-            "swedish": "biff"
+            "swedish": "BIFF"
         }
     },
     {
         "question": {
-            "swedish": "fläsk",
-            "english": "pork"
+            "swedish": "FLÄSK",
+            "english": "PORK"
         },
         "answer": {
-            "a": "flask",
-            "b": "bottle",
-            "c": "steak",
-            "d": "pork",
+            "a": "FLASK",
+            "b": "BOTTLE",
+            "c": "STEAK",
+            "d": "PORK",
             "correct": "d",
-            "swedish": "fläsk"
+            "swedish": "FLÄSK"
         }
     },
     {
         "question": {
-            "swedish": "kyckling",
-            "english": "chicken"
+            "swedish": "KYCKLING",
+            "english": "CHICKEN"
         },
         "answer": {
-            "a": "chicken",
-            "b": "cackling",
-            "c": "chuckling",
-            "d": "heckling",
+            "a": "CHICKEN",
+            "b": "CACKLING",
+            "c": "CHUCKLING",
+            "d": "HECKLING",
             "correct": "a",
-            "swedish": "kyckling"
+            "swedish": "KYCKLING"
         }
     },
     {
         "question": {
-            "swedish": "lamm",
-            "english": "lamb"
+            "swedish": "LAMM",
+            "english": "LAMB"
         },
         "answer": {
-            "a": "car",
-            "b": "lamb",
-            "c": "limb",
-            "d": "talk",
+            "a": "CAR",
+            "b": "LAMB",
+            "c": "LIMB",
+            "d": "TALK",
             "correct": "b",
-            "swedish": "lamm"
+            "swedish": "LAMM"
         }
     },
     {
         "question": {
-            "swedish": "fisk",
-            "english": "fish"
+            "swedish": "FISK",
+            "english": "FISH"
         },
         "answer": {
-            "a": "fuss",
-            "b": "fist",
-            "c": "fish",
-            "d": "fake",
+            "a": "FUSS",
+            "b": "FIST",
+            "c": "FISH",
+            "d": "FAKE",
             "correct": "c",
-            "swedish": "fisk"
+            "swedish": "FISK"
         }
     },
     {
         "question": {
-            "swedish": "fot",
-            "english": "foot"
+            "swedish": "FOT",
+            "english": "FOOT"
         },
         "answer": {
-            "a": "faux",
-            "b": "fee",
-            "c": "though",
-            "d": "foot",
+            "a": "FAUX",
+            "b": "FEE",
+            "c": "THOUGH",
+            "d": "FOOT",
             "correct": "d",
-            "swedish": "fot"
+            "swedish": "FOT"
         }
     },
     {
         "question": {
-            "swedish": "ben",
-            "english": "leg"
+            "swedish": "BEN",
+            "english": "LEG"
         },
         "answer": {
-            "a": "leg",
-            "b": "son",
-            "c": "bin",
-            "d": "bun",
+            "a": "LEG",
+            "b": "SON",
+            "c": "BIN",
+            "d": "BUN",
             "correct": "a",
-            "swedish": "ben"
+            "swedish": "BEN"
         }
     },
     {
         "question": {
-            "swedish": "huvud",
-            "english": "head"
+            "swedish": "HUVUD",
+            "english": "HEAD"
         },
         "answer": {
-            "a": "halved",
-            "b": "head",
-            "c": "hand",
-            "d": "divide",
+            "a": "HALVED",
+            "b": "HEAD",
+            "c": "HAND",
+            "d": "DIVIDE",
             "correct": "b",
-            "swedish": "huvud"
+            "swedish": "HUVUD"
         }
     },
     {
         "question": {
-            "swedish": "mun",
-            "english": "mouth"
+            "swedish": "MUN",
+            "english": "MOUTH"
         },
         "answer": {
-            "a": "man",
-            "b": "mum",
-            "c": "mouth",
-            "d": "moon",
+            "a": "MAN",
+            "b": "MUM",
+            "c": "MOUTH",
+            "d": "MOON",
             "correct": "c",
-            "swedish": "mun"
+            "swedish": "MUN"
         }
     },
     {
         "question": {
-            "swedish": "näsa",
-            "english": "nose"
+            "swedish": "NÄSA",
+            "english": "NOSE"
         },
         "answer": {
-            "a": "read",
-            "b": "knowing",
-            "c": "nigh",
-            "d": "nose",
+            "a": "READ",
+            "b": "KNOWING",
+            "c": "NIGH",
+            "d": "NOSE",
             "correct": "d",
-            "swedish": "näsa"
+            "swedish": "NÄSA"
         }
     },
     {
         "question": {
-            "swedish": "öga",
-            "english": "eye"
+            "swedish": "ÖGA",
+            "english": "EYE"
         },
         "answer": {
-            "a": "eye",
-            "b": "egg",
-            "c": "examine",
-            "d": "chew",
+            "a": "EYE",
+            "b": "EGG",
+            "c": "EXAMINE",
+            "d": "CHEW",
             "correct": "a",
-            "swedish": "eye"
+            "swedish": "EYE"
         }
     },
     {
         "question": {
-            "swedish": "kropp",
-            "english": "body"
+            "swedish": "KROPP,
+            "english": "BODY"
         },
         "answer": {
-            "a": "militia",
-            "b": "body",
-            "c": "cow",
-            "d": "key",
+            "a": "MILITIA",
+            "b": "BODY",
+            "c": "COW",
+            "d": "KEY",
             "correct": "b",
-            "swedish": "kropp"
+            "swedish": "KROPP"
         }
     },
     {
         "question": {
-            "swedish": "mage",
-            "english": "stomach"
+            "swedish": "MAGE",
+            "english": "STOMACH"
         },
         "answer": {
-            "a": "image",
-            "b": "mug",
-            "c": "stomach",
-            "d": "foot",
+            "a": "IMAGE",
+            "b": "MUG",
+            "c": "STOMACH",
+            "d": "FOOT",
             "correct": "c",
-            "swedish": "mage"
+            "swedish": "MAGE"
         }
     },
     {
         "question": {
-            "swedish": "rygg",
-            "english": "back"
+            "swedish": "RYGG",
+            "english": "BACK"
         },
         "answer": {
-            "a": "rye",
-            "b": "shoulder",
-            "c": "rug",
-            "d": "back",
+            "a": "RYE",
+            "b": "SHOULDER",
+            "c": "RUG",
+            "d": "BACK",
             "correct": "d",
-            "swedish": "rygg"
+            "swedish": "RYGG"
         }
     },
     {
         "question": {
-            "swedish": "chef",
-            "english": "boss"
+            "swedish": "CHEF",
+            "english": "BOSS"
         },
         "answer": {
-            "a": "boss",
-            "b": "cheif",
-            "c": "chef",
-            "d": "composer",
+            "a": "BOSS",
+            "b": "CHIEF",
+            "c": "CHEF",
+            "d": "COMPOSER",
             "correct": "a",
-            "swedish": "chef"
+            "swedish": "CHEF"
         }
     },
     {
         "question": {
-            "swedish": "sjuksköterska",
-            "english": "nurse"
+            "swedish": "SJUKSKÖTERSKA",
+            "english": "NURSE"
         },
         "answer": {
-            "a": "water ski",
-            "b": "nurse",
-            "c": "ham sandwich",
-            "d": "pediatrician",
+            "a": "WATER SKI",
+            "b": "NURSE",
+            "c": "HAM SANDWICH",
+            "d": "PEDIATRICIAN",
             "correct": "b",
-            "swedish": "sjuksköterska"
+            "swedish": "SJUKSKÖTERSKA"
         }
     },
     {
         "question": {
-            "swedish": "läkare",
-            "english": "doctor"
+            "swedish": "LÄKARE",
+            "english": "DOCTOR"
         },
         "answer": {
-            "a": "locker",
-            "b": "basement",
-            "c": "doctor",
-            "d": "delicious",
+            "a": "LOCKER",
+            "b": "BASEMENT",
+            "c": "DOCTOR",
+            "d": "DELICIOUS",
             "correct": "c",
-            "swedish": "läkare"
+            "swedish": "LÄKARE"
         }
     },
     {
         "question": {
-            "swedish": "poliskonstapel",
-            "english": "police officer"
+            "swedish": "POLISKONSTAPEL",
+            "english": "POLICE OFFICER"
         },
         "answer": {
-            "a": "mayor",
-            "b": "school nurse",
-            "c": "police station",
-            "d": "police officer",
+            "a": "MAYOR",
+            "b": "SCHOOL NURSE",
+            "c": "POLICE STATION",
+            "d": "POLICE OFFICER",
             "correct": "d",
-            "swedish": "poliskonstapel"
+            "swedish": "POLISKONSTAPEL"
         }
     },
     {
         "question": {
-            "swedish": "kock",
-            "english": "(a) cook/chef"
+            "swedish": "KOCK",
+            "english": "COOK/CHEF"
         },
         "answer": {
-            "a": "(a) cook/chef",
-            "b": "soup",
-            "c": "barbeque",
-            "d": "a meal",
+            "a": "COOK/CHEF",
+            "b": "SOUP",
+            "c": "BARBEQUE",
+            "d": "A MEAL",
             "correct": "a",
-            "swedish": "kock"
+            "swedish": "KOCK"
         }
     },
     {
         "question": {
-            "swedish": "ingenjör",
-            "english": "engineer"
+            "swedish": "INGENJÖR",
+            "english": "ENGINEER"
         },
         "answer": {
-            "a": "encounter",
-            "b": "engineer",
-            "c": "integer",
-            "d": "uninjured",
+            "a": "ENCOUNTER",
+            "b": "ENGINEER",
+            "c": "INTEGER",
+            "d": "UNINJURED",
             "correct": "b",
-            "swedish": "ingenjör"
+            "swedish": "INGENJÖR"
         }
     },
     {
         "question": {
-            "swedish": "lärare",
-            "english": "teacher"
+            "swedish": "LÄRARE",
+            "english": "TEACHER"
         },
         "answer": {
-            "a": "learner",
-            "b": "lawyer",
-            "c": "teacher",
-            "d": "professor",
+            "a": "LEARNER",
+            "b": "LAWYER",
+            "c": "TEACHER",
+            "d": "PROFESSOR",
             "correct": "c",
-            "swedish": "lärare"
+            "swedish": "LÄRARE"
         }
     },
     {
         "question": {
-            "swedish": "programmerare",
-            "english": "programmer"
+            "swedish": "PROGRAMMERARE",
+            "english": "PROGRAMMER"
         },
         "answer": {
-            "a": "programming",
-            "b": "documentation",
-            "c": "organiser",
-            "d": "programmer",
+            "a": "PROGRAMMING",
+            "b": "DOCUMENTATION",
+            "c": "ORGANISER",
+            "d": "PROGRAMMER",
             "correct": "d",
-            "swedish": "programmerare"
+            "swedish": "PROGRAMMERARE"
         }
     },
     {
         "question": {
-            "swedish": "snickare",
-            "english": "carpenter"
+            "swedish": "SNICKARE",
+            "english": "CARPENTER"
         },
         "answer": {
-            "a": "carpenter",
-            "b": "gossiper",
-            "c": "laughter",
-            "d": "snickers",
+            "a": "CARPENTER",
+            "b": "GOSSIPER",
+            "c": "LAUGHTER",
+            "d": "SNICKERS",
             "correct": "a",
-            "swedish": "eye"
+            "swedish": "SNICKARE"
         }
     },
     {
         "question": {
-            "swedish": "försäljare",
-            "english": "salesman"
+            "swedish": "FÖRSÄLJARE",
+            "english": "SALESMAN"
         },
         "answer": {
-            "a": "frolicker",
-            "b": "salesman",
-            "c": "freeloader",
-            "d": "tour guide",
+            "a": "FROLICKER",
+            "b": "SALESMAN",
+            "c": "FREELOADER",
+            "d": "TOUR GUIDE",
             "correct": "b",
-            "swedish": "försäljare"
+            "swedish": "FÖRSÄLJARE"
         }
     }
 ]
