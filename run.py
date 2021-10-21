@@ -597,9 +597,9 @@ quiz_answers = [
             "english": "monday"
         },
         "answer": {
-            "a": "mad dog",
-            "b": "måndag",
-            "c": "mattock",
+            "a": "Mad dog",
+            "b": "Monday",
+            "c": "Mattock",
             "d": "May Day",
             "correct": "b",
             "swedish": "måndag"
@@ -765,10 +765,10 @@ quiz_answers = [
             "english": "June"
         },
         "answer": {
-            "a": "",
+            "a": "Uni",
             "b": "June",
-            "c": "",
-            "d": "",
+            "c": "Goon",
+            "d": "Join me",
             "correct": "b",
             "swedish": "juni"
         }
@@ -920,9 +920,9 @@ quiz_answers = [
         },
         "answer": {
             "a": "six",
-            "b": "",
-            "c": "",
-            "d": "",
+            "b": "socks",
+            "c": "sax",
+            "d": "sects",
             "correct": "a",
             "swedish": "sex"
         }
@@ -933,10 +933,10 @@ quiz_answers = [
             "english": "seven"
         },
         "answer": {
-            "a": "",
+            "a": "sigh",
             "b": "seven",
-            "c": "",
-            "d": "",
+            "c": "flu",
+            "d": "sew",
             "correct": "b",
             "swedish": "sju"
         }
@@ -947,10 +947,10 @@ quiz_answers = [
             "english": "eight"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "two",
+            "b": "understand",
             "c": "eight",
-            "d": "",
+            "d": "tie",
             "correct": "c",
             "swedish": "åtta"
         }
@@ -961,9 +961,9 @@ quiz_answers = [
             "english": "nine"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "neo",
+            "b": "happy",
+            "c": "meow",
             "d": "nine",
             "correct": "d",
             "swedish": "nio"
@@ -976,9 +976,9 @@ quiz_answers = [
         },
         "answer": {
             "a": "ten",
-            "b": "",
-            "c": "",
-            "d": "",
+            "b": "tie",
+            "c": "tile",
+            "d": "thaw",
             "correct": "a",
             "swedish": "tio"
         }
@@ -989,10 +989,10 @@ quiz_answers = [
             "english": "coffee"
         },
         "answer": {
-            "a": "",
+            "a": "coughing",
             "b": "coffee",
-            "c": "",
-            "d": "",
+            "c": "calf",
+            "d": "goof",
             "correct": "b",
             "swedish": "kaffe"
         }
@@ -1003,10 +1003,10 @@ quiz_answers = [
             "english": "tea"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "thee",
+            "b": "to",
             "c": "tea",
-            "d": "",
+            "d": "he",
             "correct": "c",
             "swedish": "tea"
         }
@@ -1017,9 +1017,9 @@ quiz_answers = [
             "english": "beer"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "wool",
+            "b": "ill",
+            "c": "öwl",
             "d": "beer",
             "correct": "d",
             "swedish": "öl"
@@ -1031,10 +1031,10 @@ quiz_answers = [
             "english": "wine"
         },
         "answer": {
-            "a": "six",
-            "b": "",
-            "c": "",
-            "d": "",
+            "a": "wine",
+            "b": "won",
+            "c": "when",
+            "d": "wean",
             "correct": "a",
             "swedish": "wine"
         }
@@ -1045,10 +1045,10 @@ quiz_answers = [
             "english": "water"
         },
         "answer": {
-            "a": "",
+            "a": "vetting",
             "b": "water",
-            "c": "",
-            "d": "",
+            "c": "comprehension",
+            "d": "veteran",
             "correct": "b",
             "swedish": "vatten"
         }
@@ -1059,10 +1059,10 @@ quiz_answers = [
             "english": "beef"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "bark",
+            "b": "fight",
             "c": "beef",
-            "d": "",
+            "d": "puff",
             "correct": "c",
             "swedish": "biff"
         }
@@ -1073,9 +1073,9 @@ quiz_answers = [
             "english": "pork"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "flask",
+            "b": "bottle",
+            "c": "steak",
             "d": "pork",
             "correct": "d",
             "swedish": "fläsk"
@@ -1088,9 +1088,9 @@ quiz_answers = [
         },
         "answer": {
             "a": "chicken",
-            "b": "",
-            "c": "",
-            "d": "",
+            "b": "cackling",
+            "c": "chuckling",
+            "d": "heckling",
             "correct": "a",
             "swedish": "kyckling"
         }
@@ -1101,10 +1101,10 @@ quiz_answers = [
             "english": "lamb"
         },
         "answer": {
-            "a": "",
+            "a": "car",
             "b": "lamb",
-            "c": "",
-            "d": "",
+            "c": "limb",
+            "d": "talk",
             "correct": "b",
             "swedish": "lamm"
         }
@@ -1115,10 +1115,10 @@ quiz_answers = [
             "english": "fish"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "fuss",
+            "b": "fist",
             "c": "fish",
-            "d": "",
+            "d": "fake",
             "correct": "c",
             "swedish": "fisk"
         }
@@ -1129,9 +1129,9 @@ quiz_answers = [
             "english": "foot"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "faux",
+            "b": "fee",
+            "c": "though",
             "d": "foot",
             "correct": "d",
             "swedish": "fot"
@@ -1144,9 +1144,9 @@ quiz_answers = [
         },
         "answer": {
             "a": "leg",
-            "b": "",
-            "c": "",
-            "d": "",
+            "b": "son",
+            "c": "bin",
+            "d": "bun",
             "correct": "a",
             "swedish": "ben"
         }
@@ -1157,10 +1157,10 @@ quiz_answers = [
             "english": "head"
         },
         "answer": {
-            "a": "",
+            "a": "halved",
             "b": "head",
-            "c": "",
-            "d": "",
+            "c": "hand",
+            "d": "divide",
             "correct": "b",
             "swedish": "huvud"
         }
@@ -1171,10 +1171,10 @@ quiz_answers = [
             "english": "mouth"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "man",
+            "b": "mum",
             "c": "mouth",
-            "d": "",
+            "d": "moon",
             "correct": "c",
             "swedish": "mun"
         }
@@ -1185,9 +1185,9 @@ quiz_answers = [
             "english": "nose"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "read",
+            "b": "knowing",
+            "c": "nigh",
             "d": "nose",
             "correct": "d",
             "swedish": "näsa"
@@ -1200,9 +1200,9 @@ quiz_answers = [
         },
         "answer": {
             "a": "eye",
-            "b": "",
-            "c": "",
-            "d": "",
+            "b": "egg",
+            "c": "examine",
+            "d": "chew",
             "correct": "a",
             "swedish": "eye"
         }
@@ -1213,10 +1213,10 @@ quiz_answers = [
             "english": "body"
         },
         "answer": {
-            "a": "",
+            "a": "militia",
             "b": "body",
-            "c": "",
-            "d": "",
+            "c": "cow",
+            "d": "key",
             "correct": "b",
             "swedish": "kropp"
         }
@@ -1227,10 +1227,10 @@ quiz_answers = [
             "english": "stomach"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "image",
+            "b": "mug",
             "c": "stomach",
-            "d": "",
+            "d": "foot",
             "correct": "c",
             "swedish": "mage"
         }
@@ -1241,9 +1241,9 @@ quiz_answers = [
             "english": "back"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "rye",
+            "b": "shoulder",
+            "c": "rug",
             "d": "back",
             "correct": "d",
             "swedish": "rygg"
@@ -1256,9 +1256,9 @@ quiz_answers = [
         },
         "answer": {
             "a": "boss",
-            "b": "",
-            "c": "",
-            "d": "",
+            "b": "cheif",
+            "c": "chef",
+            "d": "composer",
             "correct": "a",
             "swedish": "chef"
         }
@@ -1269,10 +1269,10 @@ quiz_answers = [
             "english": "nurse"
         },
         "answer": {
-            "a": "",
+            "a": "water ski",
             "b": "nurse",
-            "c": "",
-            "d": "",
+            "c": "ham sandwich",
+            "d": "pediatrician",
             "correct": "b",
             "swedish": "sjuksköterska"
         }
@@ -1283,10 +1283,10 @@ quiz_answers = [
             "english": "doctor"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "locker",
+            "b": "basement",
             "c": "doctor",
-            "d": "",
+            "d": "delicious",
             "correct": "c",
             "swedish": "läkare"
         }
@@ -1297,9 +1297,9 @@ quiz_answers = [
             "english": "police officer"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "mayor",
+            "b": "school nurse",
+            "c": "police station",
             "d": "police officer",
             "correct": "d",
             "swedish": "poliskonstapel"
@@ -1312,9 +1312,9 @@ quiz_answers = [
         },
         "answer": {
             "a": "(a) cook/chef",
-            "b": "",
-            "c": "",
-            "d": "",
+            "b": "soup",
+            "c": "barbeque",
+            "d": "a meal",
             "correct": "a",
             "swedish": "kock"
         }
@@ -1325,10 +1325,10 @@ quiz_answers = [
             "english": "engineer"
         },
         "answer": {
-            "a": "",
+            "a": "encounter",
             "b": "engineer",
-            "c": "",
-            "d": "",
+            "c": "integer",
+            "d": "uninjured",
             "correct": "b",
             "swedish": "ingenjör"
         }
@@ -1339,10 +1339,10 @@ quiz_answers = [
             "english": "teacher"
         },
         "answer": {
-            "a": "",
-            "b": "",
+            "a": "learner",
+            "b": "lawyer",
             "c": "teacher",
-            "d": "",
+            "d": "professor",
             "correct": "c",
             "swedish": "lärare"
         }
@@ -1353,9 +1353,9 @@ quiz_answers = [
             "english": "programmer"
         },
         "answer": {
-            "a": "",
-            "b": "",
-            "c": "",
+            "a": "programming",
+            "b": "documentation",
+            "c": "organiser",
             "d": "programmer",
             "correct": "d",
             "swedish": "programmerare"
@@ -1381,10 +1381,10 @@ quiz_answers = [
             "english": "salesman"
         },
         "answer": {
-            "a": "",
+            "a": "frolicker",
             "b": "salesman",
-            "c": "",
-            "d": "",
+            "c": "freeloader",
+            "d": "tour guide",
             "correct": "b",
             "swedish": "försäljare"
         }
@@ -1404,8 +1404,9 @@ def display_cards():
     i = 1
     while i < 6:
         random_number = random.randint(0, len(quiz_answers)-1)
-        card_sets.append(quiz_answers[random_number])
-        i += 1
+        if quiz_answers[random_number] not in card_sets:
+            card_sets.append(quiz_answers[random_number])
+            i += 1
 
 
 display_cards()
