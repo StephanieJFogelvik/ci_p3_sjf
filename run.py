@@ -1434,6 +1434,8 @@ while True:
     card_sets = []
     print("LET'S PRACTICE SOME SWEDISH VOCABULARY!")
     print(2 * "\n")
+    print("Press Enter")
+    input()
     i = 1
     while i < 6:
         random_number = random.randint(0, len(quiz_answers)-1)
